@@ -215,6 +215,7 @@ hr {
 }
 
 .product-list .pro1 img {
+  height : 75%;
   width: 100%;
   border: 1px solid #198754;
   border-radius: 25px;
